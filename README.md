@@ -1,5 +1,10 @@
 # MES AI Assistant
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 An AI-powered Manufacturing Execution System (MES) documentation assistant built with Retrieval-Augmented Generation (RAG), ChromaDB, Ollama, and Streamlit.
 
 The assistant enables users to query MES documentation in natural language and receive accurate, context-aware answers with source references. It supports streaming responses, metadata filtering, hybrid retrieval, and retrieval debugging, making it a practical AI assistant for MES documentation search and question answering.
