@@ -1,9 +1,14 @@
 #Python
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+
 
 #ChromaDB
-data/chromada/
+data/chromadb/
+*.sqlite3
+*.db
 
 #Chat History
 chat_history.json
@@ -12,3 +17,17 @@ chat_history.json
 .venv/
 venv/
 env/
+ENV/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
