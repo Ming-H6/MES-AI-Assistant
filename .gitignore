@@ -1,0 +1,14 @@
+#Python
+__pycache__/
+*.py[cod]
+
+#ChromaDB
+data/chromada/
+
+#Chat History
+chat_history.json
+
+#Virtual Environment
+.venv/
+venv/
+env/
